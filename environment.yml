@@ -5,4 +5,6 @@ dependencies:
 - pandas=2.3.3
 - pandera=0.26.1
 - yaml=0.2.5
+- conda-lock=2.5.8
+- python=3.11.14
 prefix: /Users/erivera/miniforge3/envs/assignment2
